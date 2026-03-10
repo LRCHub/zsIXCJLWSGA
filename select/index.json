@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "シアワセ",
+  "base_artist": "aiko",
+  "createdAt": "2026-03-10T01:25:44.327574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シアワセ (worst)",
+      "artist": "KOHH",
+      "has_synced": true,
+      "path": "select/01_シアワセ_(worst)_KOHH.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シアワセ",
+      "artist": "KOHH",
+      "has_synced": true,
+      "path": "select/02_シアワセ_KOHH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シアワセ",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/03_シアワセ_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シアワセ☆ハイテンション↑↑",
+      "artist": "南 春香(CV:佐藤利奈)／南 夏奈(CV:井上麻里奈)／南 千秋(CV:茅原実里)",
+      "has_synced": false,
+      "path": "select/04_シアワセ☆ハイテンション↑↑_南_春香(CV_佐藤利奈)_南_夏奈(CV_井上麻里奈)_南_千秋(CV_茅原実里).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シアワセ",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/05_シアワセ_aiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シアワセ☆ハイテンション↑↑",
+      "artist": "南春香(CV:佐藤利奈)、南夏奈(CV:井上麻里奈)、南千秋(CV:茅原実里)",
+      "has_synced": false,
+      "path": "select/06_シアワセ☆ハイテンション↑↑_南春香(CV_佐藤利奈)、南夏奈(CV_井上麻里奈)、南千秋(CV_茅原実里).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シアワセ√コヨリニウム",
+      "artist": "博衣こより",
+      "has_synced": true,
+      "path": "select/07_シアワセ√コヨリニウム_博衣こより.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シアワセ - Shiawase",
+      "artist": "aiko",
+      "has_synced": true,
+      "path": "select/08_シアワセ_-_Shiawase_aiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シアワセ",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_シアワセ_aiko.txt"
+    }
+  ]
+}
